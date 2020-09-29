@@ -1,0 +1,17 @@
+{
+  "name": "namebase-orderbook-coding-challenge",
+  "version": "1.0.0",
+  "description": "Namebase Orderbook Coding Challenge",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
